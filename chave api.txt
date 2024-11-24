@@ -1,0 +1,6 @@
+AIzaSyBsAZgH0XorRWNA9wsEd-4bYs0bjisq3t8
+mongodb:
+vinidias1295
+tsvxQZxoygJ4ZyTI
+
+mongodb+srv://vinidias1295:tsvxQZxoygJ4ZyTI@cluster0.zhuf7.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
