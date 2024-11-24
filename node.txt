@@ -1,6 +1,0 @@
-ctrl+c para o servidor(terminal)
-node server.js (inicia o servidor)
-node --version ou node -v (checa a versão do node ou a versão de qualquer programa)
-npm init es6 -y (cria um novo arquivo json na versão mais moderna do javascritp (deve ser utilizado no cmd))
-O comando npm install express instala o framework web Express.js no seu projeto Node.js.
-import express from "express" importa o framework express para o arquivo js.
